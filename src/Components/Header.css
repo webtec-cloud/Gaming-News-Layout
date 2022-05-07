@@ -1,0 +1,39 @@
+.Header {
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/506524b5fe295a46bca10adb/vcvv-min.jpg");
+  height: 100vh;
+
+  color: white;
+}
+.Header-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+span {
+  padding: 0px 10px;
+  font-size: 24px;
+}
+button {
+  padding: 10px 40px;
+  margin-top: 20px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+.Header-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  font-size: 24px;
+}

@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: fit-content;
+  padding: 10px 0;
+  background-color: lightgrey;
+}
+.navbar > div {
+  padding: 0 25px;
+}

@@ -1,0 +1,72 @@
+.download-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 0 auto;
+  display: flex;
+}
+
+.img6 {
+  height: 130px;
+  border-radius: 50%;
+  width: 130px;
+  margin-left: 40px;
+}
+
+.download-heading {
+  color: black;
+  font-size: 8vh;
+}
+
+.text-section {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.img-section {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-img1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  z-index: 1;
+  position: absolute;
+  top: -218px;
+  left: 562px;
+}
+.download-img2 {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  z-index: 2;
+  position: absolute;
+}
+.download-img3 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  z-index: 3;
+  position: absolute;
+  right: 600px;
+}
+.download-img4 {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  top: -300px;
+  right: 500px;
+  position: absolute;
+}
+
+.download-games {
+  height: 130vh;
+}

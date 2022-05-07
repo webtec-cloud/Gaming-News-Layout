@@ -1,0 +1,14 @@
+h1 {
+  color: white;
+}
+
+.gadgets {
+  background-image: url("https://images.unsplash.com/photo-1636489953081-c4ebbd50fa3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGdhbWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
